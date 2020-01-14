@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>Description</key>
+	<string>A class extension.</string>
+	<key>SortOrder</key>
+	<string>1</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>productName</string>
+			<key>Required</key>
+			<string>YES</string>
+			<key>Name</key>
+			<string>Extension of:</string>
+			<key>Description</key>
+			<string>What class to extend in the new file</string>
+			<key>Type</key>
+			<string>popup</string>
+			<key>Default</key>
+			<string>UIView</string>
+			<key>Values</key>
+			<array>
+				<string>UIBarButtonItem</string>
+				<string>UIButton</string>
+				<string>UIColor</string>
+				<string>UIImage</string>
+				<string>UINavigationController</string>
+				<string>UINavigationItem</string>
+				<string>UITextField</string>
+				<string>UIView</string>
+				<string>UIViewController</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
