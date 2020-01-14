@@ -1,0 +1,14 @@
+//___FILEHEADER___
+
+import UIKit
+
+final final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
+
+    // MARK: Function Overrides
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+    }
+    
+}
