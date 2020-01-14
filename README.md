@@ -1,4 +1,4 @@
-# Xcode Templates
+# Custom Xcode Templates
 **Installation:**
 
 **`~/Library/Developer/Xcode/Templates/Source`**
