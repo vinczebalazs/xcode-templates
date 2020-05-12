@@ -8,7 +8,7 @@ final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
     private let reuseIdentifier = "Cell"
 
-    // MARK: Function Overrides
+    // MARK: Methods Overrides
 
     override func viewDidLoad() {
         super.viewDidLoad()
