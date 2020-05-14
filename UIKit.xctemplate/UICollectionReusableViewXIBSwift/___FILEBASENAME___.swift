@@ -4,7 +4,7 @@ import UIKit
 
 final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
-    // MARK: Methods Overrides
+    // MARK: Public Methods
 
     override func awakeFromNib() {
         super.awakeFromNib()
